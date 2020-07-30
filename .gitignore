@@ -1,0 +1,4 @@
+# build artifacts
+*__pycache__
+*.py[c,o]
+neural_net.egg-info/
